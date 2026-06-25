@@ -568,14 +568,9 @@ The system operates on a **master–slave command architecture**:
 | Name | Roll No. | LinkedIn |
 |---|---|---|
 | **Vaibhav Jagtap** | B400650099 | [linkedin.com/in/vaibhavjagtap](https://linkedin.com/in/vaibhavjagtap) |
-| Suraksha Vedpathak | — | — |
-| Tirthesh Pol | — | — |
 
-**Project Guide:** Dr. Pratibha Chavan  
-**Department:** Electronics & Telecommunication  
-**Institute:** Trinity College of Engineering and Research, Pune  
-**University:** Savitribai Phule Pune University (SPPU)  
-**Academic Year:** 2024–25
+
+
 
 ---
 
